@@ -1,1 +1,1 @@
-FROM mchavinda/ihaskell-dataframe:latest
+FROM docker.io/mchavinda/ihaskell-dataframe:latest
